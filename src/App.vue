@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <h1>Hello World!</h1>
+  <van-button type="success" size="large">ok</van-button>
 </template>
 
 <style scoped>
