@@ -6,6 +6,8 @@ import App from "./App.vue";
 import { Button, Field, CellGroup } from "vant";
 // 2. 引入组件样式
 import "vant/lib/index.css";
+// 引入 rem 相关依赖
+import "amfe-flexible";
 
 const app = createApp(App);
 // 3. 注册你需要的组件

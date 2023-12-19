@@ -1,5 +1,6 @@
 <template>
   <van-button type="success" size="large" @click="handleClick">ok</van-button>
+  <van-button type="primary">主要按钮</van-button>
   <!-- 可以使用 CellGroup 作为容器 -->
   <van-cell-group inset>
     <van-field v-model="username" label="文本" placeholder="请输入用户名" />
