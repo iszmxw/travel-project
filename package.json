@@ -9,14 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "amfe-flexible": "^2.2.1",
     "vant": "^4.8.0",
     "vue": "^3.3.11"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.5.2",
-    "postcss": "^8.4.32",
-    "postcss-pxtorem": "^6.0.0",
+    "less": "^4.2.0",
+    "postcss-px-to-viewport": "^1.1.1",
     "vite": "^5.0.8"
   }
 }
